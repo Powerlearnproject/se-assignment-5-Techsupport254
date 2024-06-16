@@ -186,7 +186,7 @@ Answer the following questions based on your understanding of the installation a
    - Key debugging features I used: Variable inspection, call stack, watch expressions, and step through code.
 
 ### 10. Using Source Control
-
+![alt text](image-7.png)
 #### Integrating Git with VS Code:
 
 1. **Initialize Repository:**
